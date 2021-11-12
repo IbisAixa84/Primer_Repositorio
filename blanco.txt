@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 En el mundo occidental, el color blanco está asociado con la paz, la pureza y la limpieza. ... También representa la ingenuidad y la inocencia, es un color con el que suelen vestir a los bebés recién nacidos, y que tiene un significado religioso, también asociado ga la pureza.
 El blanco y el negro no suelen considerarse colores y no aparecen en un círculo cromático, pues el blanco es la presencia de todos los colores y el negro la ausencia total de color.
+=======
+En el mundo occidental, el color blanco está asociado con la paz, la pureza y la limpieza. ... También representa la ingenuidad y la inocencia, es un color con el que suelen vestir a los bebés recién nacidos, y que tiene un significado religioso, también asociado a la pureza.
+Yo te como sin beat, acapella (ey)
+Suave que la noche espera (uh, ey, ey)
+Ya te encendí como vela
+>>>>>>> 4a30ea93c978f252407bb397a23195e8bdae02dc
